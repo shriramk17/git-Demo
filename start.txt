@@ -1,1 +1,2 @@
 Test git quick start demo
+using notepad++ as a default editor for git demo project
